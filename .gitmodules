@@ -1,0 +1,3 @@
+[submodule "manifest"]
+	path = manifest
+	url = git@github.com:real-life-copium/kernel-mainline-manifest.git
